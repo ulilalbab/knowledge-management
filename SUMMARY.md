@@ -15,6 +15,7 @@
 * [Automation](resources/automation.md)
 * [Open Source](resources/open-source.md)
 * [Web Development](resources/web-development.md)
+* [Software Developer](resources/software-developer.md)
 
 ## Learning Path
 
