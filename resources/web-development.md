@@ -12,5 +12,7 @@ List of Website to learn how to code
 
 ### Data Science Resources
 
-[https://www.kaggle.com/learn/overview](https://www.kaggle.com/learn/overview) 
+{% embed url="https://www.kaggle.com/learn/overview" %}
+
+[https://i.am.ai/roadmap/\#data-science-roadmap](https://i.am.ai/roadmap/#data-science-roadmap) 
 
