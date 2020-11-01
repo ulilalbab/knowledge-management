@@ -16,3 +16,7 @@ Menciptakan masterpiece dengan menggunakan konten lokal.
 
 
 
+Fokus pada bagaimana cara menyelesaikan suatu masalah, dari masalah itu akan mendorong kita menemukan solusi. Ide bisa saja dimiliki orang lain, namun eksekusi menjadi pembedanya. 
+
+
+
