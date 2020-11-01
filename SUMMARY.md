@@ -21,3 +21,7 @@
 
 * [DevOps](learning-path/devops.md)
 
+## Note
+
+* [Menjadi Master](note/menjadi-master.md)
+
