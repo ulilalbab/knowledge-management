@@ -17,6 +17,7 @@
 * [SEO](resources/seo.md)
 * [Software Developer](resources/software-developer.md)
 * [Web Development](resources/web-development.md)
+* [Linux Command](resources/linux-command.md)
 
 ## Learning Path
 
