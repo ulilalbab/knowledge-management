@@ -32,6 +32,13 @@ Python Complete Guide:
 3. Python Programming \(John Zelle\)
 4. Python Crash Course \(Eric Matthes\)
 
+
+
+## Video Material
+
+1. [https://www.youtube.com/watch?v=5m1ZoS8Entg&ab\_channel=PythonProgrammer](https://www.youtube.com/watch?v=5m1ZoS8Entg&ab_channel=PythonProgrammer)
+2. MIT Open Course 
+
 [https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737) 
 
 Next To Learn: Scalar Types, Operators, and Control Flow
