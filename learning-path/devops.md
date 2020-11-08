@@ -25,6 +25,10 @@ Python Complete Guide:
 
 {% embed url="https://python.quantecon.org/" %}
 
+### [https://python-programming.quantecon.org/about\_py.html](https://python-programming.quantecon.org/about_py.html)
+
+### 
+
 ### Books
 
 1. Automate Boring Staff With Python
