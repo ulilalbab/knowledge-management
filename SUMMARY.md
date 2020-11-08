@@ -18,10 +18,12 @@
 * [Software Developer](resources/software-developer.md)
 * [Web Development](resources/web-development.md)
 * [Linux Command](resources/linux-command.md)
+* [Learn Language](resources/learn-language.md)
 
 ## Learning Path and Growth Plan <a id="learning-path"></a>
 
 * [DevOps](learning-path/devops.md)
+* [Weekly Planning](learning-path/weekly-planning.md)
 
 ## Note
 
