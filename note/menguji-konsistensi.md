@@ -4,7 +4,9 @@ Sudah lama aku coba belajar dunia internat dan isinya. Saat pertama kali waktu S
 
 Perkenalanku dengan Linux diawali saat aku secara iseng mengirim email ke kantor linux yang ada di Belanda. Tanpa disangka, mereka mengirimkan paket berupa CD instalasi linux ke rumah secara gratis. Semasa SMA belajar tentang apa itu payoneer dan juga bagaima menulis blog untuk menghasilkan uang dengan berbagai artikel. 
 
-Berlanjut ke kuliah aku belajar berbagai macam software yang berkaitan dengan dunia teknik industri seperti SAP, FlexSim, AutoCad dan yang lainnya. Untuk awal kuliah aku diperkeanalkan dengan php dengan membuat sistem informasi sederhana. Saat mengambil mata kuliah Sistem Informasi Manajemrn, aku sempat membuat program sederhana untuk memilih pasangan.  
+Berlanjut ke kuliah aku belajar berbagai macam software yang berkaitan dengan dunia teknik industri seperti SAP, FlexSim, AutoCad dan yang lainnya. Untuk awal kuliah aku diperkeanalkan dengan php dengan membuat sistem informasi sederhana. Saat mengambil mata kuliah Sistem Informasi Manajemen, aku sempat membuat program sederhana untuk memilih pasangan.  
+
+Ada satu hal yang seharusnya menjadi bahan evaluasi pada diriku sendiri. Aku seringkali belajar banyak bidang namun dari semuanya tidak pernah mencoba untuk fokus salah satu diantaranya. Mulai dari membuat web sederhana, mendeploy aplikasi ke server dan lain sebagainya. 
 
  
 
