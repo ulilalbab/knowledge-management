@@ -1,6 +1,10 @@
 # Linux Command
 
-Switch User
+**Switch User**
+
+```text
+su - username
+```
 
 
 

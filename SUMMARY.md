@@ -26,4 +26,5 @@
 ## Note
 
 * [Menjadi Master](note/menjadi-master.md)
+* [Menguji Konsistensi](note/menguji-konsistensi.md)
 
