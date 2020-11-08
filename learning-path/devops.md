@@ -23,7 +23,14 @@ Python Complete Guide:
 
 {% embed url="https://www.oreilly.com/library/view/python-fundamentals/9780135917411/" %}
 
+{% embed url="https://python.quantecon.org/" %}
 
+### Books
+
+1. Automate Boring Staff With Python
+2. Learn Python The HardWay
+3. Python Programming \(John Zelle\)
+4. Python Crash Course \(Eric Matthes\)
 
 [https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737) 
 
