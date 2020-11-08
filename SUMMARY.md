@@ -19,7 +19,7 @@
 * [Web Development](resources/web-development.md)
 * [Linux Command](resources/linux-command.md)
 
-## Learning Path
+## Learning Path and Growth Plan <a id="learning-path"></a>
 
 * [DevOps](learning-path/devops.md)
 
