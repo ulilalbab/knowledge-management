@@ -25,5 +25,7 @@ Python Complete Guide:
 
 
 
+[https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737) 
+
 Next To Learn: Scalar Types, Operators, and Control Flow
 
