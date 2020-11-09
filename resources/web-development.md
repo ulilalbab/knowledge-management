@@ -20,3 +20,7 @@ Book To Read
 
 [https://github.com/MrAlex6204/Books](https://github.com/MrAlex6204/Books)
 
+Download All Web Assets
+
+[https://www.httrack.com/page/2/en/index.html](https://www.httrack.com/page/2/en/index.html) 
+
