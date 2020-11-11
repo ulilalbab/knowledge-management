@@ -48,7 +48,7 @@ Python Complete Guide:
 
 {% embed url="https://livebook.manning.com/book/tiny-python-projects/chapter-1/v-6/25" %}
 
-[https://roadmap.sh/devops](https://roadmap.sh/devops) 
+![DevOps Path \(https://roadmap.sh/devops\)  ](../../.gitbook/assets/devops.png)
 
 Next To Learn: Scalar Types, Operators, and Control Flow
 
