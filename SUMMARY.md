@@ -19,6 +19,7 @@
 * [Web Development](resources/web-development.md)
 * [Linux Command](resources/linux-command.md)
 * [Learn Language](resources/learn-language.md)
+* [Digital Marketing](resources/digital-marketing.md)
 
 ## Learning Path and Growth Plan <a id="learning-path"></a>
 
