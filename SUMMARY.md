@@ -37,5 +37,5 @@
 
 ## Finance and Business
 
-* [Untitled](finance-and-business/untitled.md)
+* [Investment](finance-and-business/untitled.md)
 
