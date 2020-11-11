@@ -23,7 +23,8 @@
 
 ## Learning Path and Growth Plan <a id="learning-path"></a>
 
-* [DevOps](learning-path/devops.md)
+* [DevOps](learning-path/devops/README.md)
+  * [Python](learning-path/devops/python.md)
 * [Weekly Planning](learning-path/weekly-planning.md)
 
 ## Note
