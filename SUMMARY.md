@@ -19,16 +19,23 @@
 * [Web Development](resources/web-development.md)
 * [Linux Command](resources/linux-command.md)
 * [Learn Language](resources/learn-language.md)
-* [Productivity](resources/productivity.md)
 
 ## Learning Path and Growth Plan <a id="learning-path"></a>
 
 * [DevOps](learning-path/devops/README.md)
   * [Python](learning-path/devops/python.md)
-* [Weekly Planning](learning-path/weekly-planning.md)
 
 ## Note
 
 * [Menjadi Master](note/menjadi-master.md)
 * [Menguji Konsistensi](note/menguji-konsistensi.md)
+
+## Improvement and Productivity
+
+* [Productivity](improvement-and-productivity/productivity.md)
+* [Weekly Planning](improvement-and-productivity/weekly-planning.md)
+
+## Finance and Business
+
+* [Untitled](finance-and-business/untitled.md)
 
