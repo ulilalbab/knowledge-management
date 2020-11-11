@@ -6,3 +6,5 @@
 
 ### Book
 
+{% file src="../../.gitbook/assets/learn-python-the-hard-way-3rd-edition-v413hav.pdf" caption="Python Hardway" %}
+
