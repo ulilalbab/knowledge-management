@@ -20,6 +20,7 @@
 * [Linux Command](resources/linux-command.md)
 * [Learn Language](resources/learn-language.md)
 * [Digital Marketing](resources/digital-marketing.md)
+* [Machine Learnig](resources/machine-learnig.md)
 
 ## Learning Path and Growth Plan <a id="learning-path"></a>
 
