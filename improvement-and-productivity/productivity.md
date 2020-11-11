@@ -8,5 +8,12 @@
 
 ### Pomodoro Technique
 
-[https://tomato-timer.com/\#](https://tomato-timer.com/#) 
+{% embed url="https://tomato-timer.com/\#" %}
+
+
+
+Success Factors
+
+1. Integrity \(High Trust Society\)
+2. Competent
 
