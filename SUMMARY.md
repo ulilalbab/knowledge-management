@@ -30,6 +30,7 @@
 
 * [Menjadi Master](note/menjadi-master.md)
 * [Menguji Konsistensi](note/menguji-konsistensi.md)
+* [Tua dan Muda](note/tua-dan-muda.md)
 
 ## Improvement and Productivity
 
