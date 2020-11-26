@@ -33,6 +33,7 @@
 * [Menjadi Master](note/menjadi-master.md)
 * [Menguji Konsistensi](note/menguji-konsistensi.md)
 * [Tua dan Muda](note/tua-dan-muda.md)
+* [Rehat Sejenak](note/rehat-sejenak.md)
 
 ## Improvement and Productivity
 
