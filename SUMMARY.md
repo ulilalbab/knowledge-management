@@ -22,6 +22,7 @@
 * [Digital Marketing](resources/digital-marketing.md)
 * [Machine Learnig](resources/machine-learnig.md)
 * [Public Speaking](resources/public-speaking.md)
+* [Ubuntu For Dummies](resources/ubuntu-for-dummies.md)
 
 ## Learning Path and Growth Plan <a id="learning-path"></a>
 
