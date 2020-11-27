@@ -8,7 +8,25 @@ Have a problem when we want to use dual boot. After Windows was installed, ubunt
 
 
 
-## 
+## Change Directory
+
+Remember that linux is case sensitive
+
+```bash
+cd ~/Downloads
+```
+
+## Install Package
+
+After Download the package, we need to install it by using terminal
+
+Go to directory of file
+
+Replace \* with packaged name
+
+```bash
+sudo dpkg -i *.deb
+```
 
 ## Getting Super Powers
 
