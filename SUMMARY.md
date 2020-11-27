@@ -35,6 +35,7 @@
 * [Menguji Konsistensi](note/menguji-konsistensi.md)
 * [Tua dan Muda](note/tua-dan-muda.md)
 * [Rehat Sejenak](note/rehat-sejenak.md)
+* [Batas Kepuasan](note/batas-kepuasan.md)
 
 ## Improvement and Productivity
 
