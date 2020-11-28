@@ -28,6 +28,14 @@ Replace \* with packaged name
 sudo dpkg -i *.deb
 ```
 
+## Uninstall Package
+
+Change keyword to package name that we want to remove
+
+```bash
+$ dpkg –l | grep keyword
+```
+
 ## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
