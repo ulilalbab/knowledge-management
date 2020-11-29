@@ -38,6 +38,7 @@
 * [Rehat Sejenak](note/rehat-sejenak.md)
 * [Batas Kepuasan](note/batas-kepuasan.md)
 * [Data Privasi](note/data-privasi.md)
+* [Law of Attraction](note/law-of-attraction.md)
 
 ## Improvement and Productivity
 
