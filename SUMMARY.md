@@ -39,6 +39,7 @@
 * [Batas Kepuasan](note/batas-kepuasan.md)
 * [Data Privasi](note/data-privasi.md)
 * [Law of Attraction](note/law-of-attraction.md)
+* [Hidup Yang Bermanfaat](note/hidup-yang-bermanfaat.md)
 
 ## Improvement and Productivity
 
