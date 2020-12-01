@@ -36,6 +36,26 @@ Change keyword to package name that we want to remove
 $ dpkg –l | grep keyword
 ```
 
+## Update Kernel
+
+After struggle to find out how to change brigthness for my laptop. Finally I can update kernel from Ubuntu 20.04. Previously, I am using kernel version 5.4, then I upgraded it to 5.9.
+
+The way that work for me use the repository below
+
+{% embed url="https://github.com/bkw777/mainline" %}
+
+```bash
+sudo add-apt-repository ppa:cappelikan/ppa
+sudo apt update
+sudo apt install mainline
+```
+
+
+
+## 
+
+## 
+
 ## Getting Super Powers
 
 Becoming a super hero is a fairly straight forward process:
