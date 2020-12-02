@@ -20,3 +20,19 @@ Buku Warren Buffet, Tony Robbins, Public Speaking.
 
 Investment in knowledge, nobody can take it from you.  
 
+Sun Flower: Business Concept. 
+
+Public Company: 
+
+1. Choose Undervalue company \(Diskon 30%\)--&gt; Lepas di value nya
+2. Perusahaan yang bagus dengan earning yang consistent \(Beli yang sesuai value\)
+3. Nabung Di saham bank
+
+Orang yang 55 tahun ada yang harus bekerja, dan hanya ada 1% yang memiliki kebebasan finansial. Merencanakan semuanya saat usia muda. 
+
+Lebih baik baca laporan keuangan dibandingkan berita di media. 
+
+\#neverendingimprovement
+
+
+
