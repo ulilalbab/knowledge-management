@@ -12,6 +12,7 @@
 
 ## Resources
 
+* [Cloudflare Wrangler](resources/cloudflare-wrangler.md)
 * [Automation](resources/automation.md)
 * [Open Source](resources/open-source.md)
 * [SEO](resources/seo.md)
