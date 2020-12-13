@@ -14,6 +14,7 @@
 
 * [Cloudflare Wrangler](resources/cloudflare-wrangler.md)
 * [Automation](resources/automation.md)
+* [Git](resources/git.md)
 * [Open Source](resources/open-source.md)
 * [SEO](resources/seo.md)
 * [Software Developer](resources/software-developer/README.md)
