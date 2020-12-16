@@ -36,3 +36,9 @@ Lebih baik baca laporan keuangan dibandingkan berita di media.
 
 
 
+### How Much is Enough?
+
+Sebuah pertanyaan untuk menentukan seberapa banyak uang yang dianggap cukup untuk menjalani hidup. 
+
+
+
