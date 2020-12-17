@@ -5,6 +5,7 @@
 ## Books To Read
 
 * [IKIGAI](books-to-read/ikigai.md)
+* [Atomic Habits](books-to-read/atomic-habits.md)
 
 ## Journal
 
