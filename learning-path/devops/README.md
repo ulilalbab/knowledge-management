@@ -52,3 +52,15 @@ Python Complete Guide:
 
 Next To Learn: Scalar Types, Operators, and Control Flow
 
+What I Know So Far:
+
+1. Deploying CMS on Ubuntu Server
+2. Configuring Domain on Cloudflare
+3. Set Up Workers and Deploy it using Wrangler
+
+
+
+
+
+
+
