@@ -25,7 +25,6 @@
 * [Learn Language](resources/learn-language.md)
 * [Digital Marketing](resources/digital-marketing.md)
 * [Machine Learnig](resources/machine-learnig.md)
-* [Public Speaking](resources/public-speaking.md)
 * [Ubuntu For Dummies](resources/ubuntu-for-dummies.md)
 
 ## Learning Path and Growth Plan <a id="learning-path"></a>
@@ -48,6 +47,7 @@
 
 * [Productivity](improvement-and-productivity/productivity.md)
 * [Weekly Planning](improvement-and-productivity/weekly-planning.md)
+* [Public Speaking](improvement-and-productivity/public-speaking.md)
 
 ## Finance and Business
 
