@@ -8,3 +8,5 @@ Pada akhirnya pula bukan harta, tahta atau jabatan yang kita miliki yang akan di
 
 Indonesia tidak pernah kekurangan orang pintar, Indonesia perlu orang yang mampu menggunakan ilmunya untuk kepentingan bangsa dan negara. 
 
+Ada sebuah ungkapan, tugas kita adalah menambah hidup pada usia. Langkah awal sebagai orang dengan bidang keilmuan teknik industri, aku coba mendokumentasikan materi perkuliahan yang bisa diakses di laman [https://lms.ulilalbab.web.id/](https://lms.ulilalbab.web.id/). Semoga semakin banyak mahasiswa yang memperoleh manfaat.
+
