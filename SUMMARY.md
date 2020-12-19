@@ -6,6 +6,10 @@
 
 * [IKIGAI](books-to-read/ikigai.md)
 * [Atomic Habits](books-to-read/atomic-habits.md)
+* [Good To Great](books-to-read/good-to-great.md)
+* [The Intelligent Investor](books-to-read/the-intelligent-investor.md)
+* [The 7 Habits of Highly Effective People](books-to-read/the-7-habits-of-highly-effective-people.md)
+* [Computational Thinking](books-to-read/computational-thinking.md)
 
 ## Journal
 
