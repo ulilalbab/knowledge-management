@@ -17,5 +17,11 @@ $ git config --list
 
 Git Cheat Sheet
 
+**Basic Git Command:**
+
+![](../.gitbook/assets/image.png)
+
 {% file src="../.gitbook/assets/swtm-2088\_atlassian-git-cheatsheet.pdf" caption="GIT By Attlasian" %}
+
+
 
