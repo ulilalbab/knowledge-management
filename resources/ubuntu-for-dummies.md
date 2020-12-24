@@ -52,7 +52,15 @@ sudo apt install mainline
 
 
 
-## 
+### Install .sh File
+
+1. Change Directory file location
+
+```bash
+chmod +x install.sh
+sudo ./install.sh
+
+```
 
 ## 
 
