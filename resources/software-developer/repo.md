@@ -14,5 +14,11 @@ List of Tools to help build products: [https://free-for.dev/\#/](https://free-fo
 
 {% embed url="https://github.com/ripienaar/free-for-dev" %}
 
+### API In Indonesia
+
+[https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA\#e-commerce](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA#e-commerce) 
+
+{% embed url="https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA\#e-commerce" %}
+
 
 
