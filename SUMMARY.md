@@ -35,6 +35,7 @@
 
 * [DevOps](learning-path/devops/README.md)
   * [Python](learning-path/devops/python.md)
+* [Software Engineer](learning-path/software-engineer.md)
 
 ## Note
 
@@ -57,4 +58,8 @@
 ## Finance and Business
 
 * [Investment](finance-and-business/untitled.md)
+
+## Sitecore
+
+* [Powershell](sitecore/powershell.md)
 
