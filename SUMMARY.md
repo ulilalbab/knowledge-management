@@ -22,8 +22,6 @@
 * [Git](resources/git.md)
 * [Open Source](resources/open-source.md)
 * [SEO](resources/seo.md)
-* [Software Developer](resources/software-developer/README.md)
-  * [Repo](resources/software-developer/repo.md)
 * [Web Development](resources/web-development.md)
 * [Linux Command](resources/linux-command.md)
 * [Learn Language](resources/learn-language.md)
@@ -36,7 +34,9 @@
 
 * [DevOps](learning-path/devops/README.md)
   * [Python](learning-path/devops/python.md)
-* [Software Engineer](learning-path/software-engineer.md)
+* [Software Engineer](learning-path/software-engineer/README.md)
+  * [Repo](learning-path/software-engineer/repo.md)
+* [Software Developer](learning-path/software-developer.md)
 
 ## Note
 
