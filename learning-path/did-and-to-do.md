@@ -16,3 +16,12 @@
 | Use Linux for Daily |  |
 |  |  |
 
+
+
+### Learn Method \(Feyman Technique\)
+
+1. Choose Concept To learn
+2. Teach Someone
+3. Return When Get Stuck
+4. Simplify your explanations
+
