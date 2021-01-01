@@ -4,7 +4,7 @@
 | :--- | :--- |
 | Fluent with Sitecore CMS | Communication for Business |
 | Powershell Automation | Productive Workflow \(Transparency\) |
-| Create Funnel Marketing |  |
+| Create Funnel Marketing | [Journaling](https://ulilalbab.web.id/blog/) At least one a month |
 | Google Cloud Virtual Machine |  |
 | Cloudflare Wrangler |  |
 | DNS and Domain Configuration |  |
