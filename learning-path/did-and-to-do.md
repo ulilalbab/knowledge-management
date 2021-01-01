@@ -4,9 +4,9 @@
 | :--- | :--- |
 | Fluent with Sitecore CMS | Communication for Business |
 | Powershell Automation | Productive Workflow \(Transparency\) |
-| Create Funnel Marketing | [Journaling](https://ulilalbab.web.id/blog/) At least one a month |
-| Google Cloud Virtual Machine |  |
-| Cloudflare Wrangler |  |
+| Create Funnel Marketing | [Journaling](https://ulilalbab.web.id/blog/) At least once a month |
+| Google Cloud Virtual Machine | Validating Ideas |
+| Cloudflare Wrangler | Software Engineer Rookie |
 | DNS and Domain Configuration |  |
 | Journaling on Blog |  |
 | Google Analytics |  |
@@ -14,7 +14,7 @@
 | Facebook Ads |  |
 | Basic Python |  |
 | Use Linux for Daily |  |
-|  |  |
+| Knowledge Management |  |
 
 
 
