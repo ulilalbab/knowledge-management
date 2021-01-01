@@ -36,6 +36,7 @@
   * [Python](learning-path/devops/python.md)
 * [Software Engineer](learning-path/software-engineer/README.md)
   * [Repo](learning-path/software-engineer/repo.md)
+* [Did and To Do](learning-path/did-and-to-do.md)
 
 ## Note
 

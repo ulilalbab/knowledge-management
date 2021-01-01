@@ -1,0 +1,18 @@
+# Did and To Do
+
+| 2020 | 2021 |
+| :--- | :--- |
+| Fluent with Sitecore CMS | Communication for Business |
+| Powershell Automation | Productive Workflow \(Transparency\) |
+| Create Funnel Marketing |  |
+| Google Cloud Virtual Machine |  |
+| Cloudflare Wrangler |  |
+| DNS and Domain Configuration |  |
+| Journaling on Blog |  |
+| Google Analytics |  |
+| Deploy Web On VM |  |
+| Facebook Ads |  |
+| Basic Python |  |
+| Use Linux for Daily |  |
+|  |  |
+
