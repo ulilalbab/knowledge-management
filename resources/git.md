@@ -25,6 +25,12 @@ Git Cheat Sheet
 
 
 
+
+
+### VS Code always ask Username and Password
+
+Using Visual Studio, when there is 
+
 {% file src="../.gitbook/assets/swtm-2088\_atlassian-git-cheatsheet.pdf" caption="GIT By Attlasian" %}
 
 

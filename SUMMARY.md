@@ -27,7 +27,8 @@
 * [Learn Language](resources/learn-language.md)
 * [Digital Marketing](resources/digital-marketing.md)
 * [Machine Learnig](resources/machine-learnig.md)
-* [Ubuntu For Dummies](resources/ubuntu-for-dummies.md)
+* [Ubuntu For Dummies](resources/ubuntu-for-dummies/README.md)
+  * [Issue using Ubuntu](resources/ubuntu-for-dummies/issue-using-ubuntu.md)
 * [Docker](resources/docker.md)
 
 ## Learning Path and Growth Plan <a id="learning-path"></a>
