@@ -34,6 +34,7 @@
 ## Learning Path and Growth Plan <a id="learning-path"></a>
 
 * [DevOps](learning-path/devops/README.md)
+  * [Google Cloud Path](learning-path/devops/google-cloud-path.md)
   * [Python](learning-path/devops/python.md)
 * [Software Engineer](learning-path/software-engineer/README.md)
   * [Repo](learning-path/software-engineer/repo.md)
