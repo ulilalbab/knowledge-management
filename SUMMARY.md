@@ -65,3 +65,7 @@
 
 * [Powershell](sitecore/powershell.md)
 
+## Podcast
+
+* [Menata Kala](podcast/menata-kala.md)
+
