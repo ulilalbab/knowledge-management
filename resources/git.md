@@ -23,7 +23,14 @@ Git Cheat Sheet
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
+## SSH Connection
 
+Check on the computer: 
+
+```bash
+cd ~/.ssh
+cd ~/.ssh/id_rsa
+```
 
 
 
