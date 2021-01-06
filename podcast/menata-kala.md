@@ -8,5 +8,18 @@ Welcome Back
 
 
 
+Isu Yang Menarik Dibahas:
+
+Seminggu sekali
+
+1. Perlindungan Data Pribadi
+
+
+
+1. Mentor Untuk Kamu
+2. Sibuk Belum Tentu Produktif
+3. 
+
+
 
 
