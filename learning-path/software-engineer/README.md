@@ -18,5 +18,9 @@ Solve the problem around us:
 
 {% embed url="https://wellytambunan.medium.com/kurikulum-programmer-backend-41df7ff1cb05" %}
 
+### Microsoft Azure
+
+[https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+
 
 
