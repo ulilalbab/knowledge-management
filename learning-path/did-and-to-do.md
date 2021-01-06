@@ -18,6 +18,12 @@
 
 
 
+Bagikan Ide itu ke orang lain, agar orang lain tahu dan mau membantu mewujudkannya bersama. Ide itu murah yang penting adalah eksekusinya. Menemukan mentor yang bisa memberi arahan dalam hidup kita. 
+
+Menggunakan produk kita dan memberi manfaat untuk mereka. Dimulai dan akan menemukan bagian yang harus diperbaiki. Tidak akan memulia jika selalu mencari alasan. 
+
+
+
 ### Learn Method \(Feyman Technique\)
 
 1. Choose Concept To learn
