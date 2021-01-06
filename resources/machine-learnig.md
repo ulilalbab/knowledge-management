@@ -56,7 +56,17 @@ source ~/.bashrc
 anaconda-navigator
 ```
 
+### Base On Terminal
 
+{% embed url="https://askubuntu.com/questions/1026383/why-does-base-appear-in-front-of-my-terminal-prompt" %}
+
+Because of Conda, there is additional \(base\) in front of user. We can deactivate by using command below: 
+
+```text
+
+(base) user@user:~$ conda deactivate
+
+```
 
 
 
