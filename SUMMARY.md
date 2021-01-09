@@ -61,6 +61,7 @@
 ## Finance and Business
 
 * [Investment](finance-and-business/untitled.md)
+* [Menghitung Harga Wajar Perusahaan](finance-and-business/menghitung-harga-wajar-perusahaan.md)
 
 ## Sitecore
 
