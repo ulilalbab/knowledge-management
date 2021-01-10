@@ -42,3 +42,9 @@ Sebuah pertanyaan untuk menentukan seberapa banyak uang yang dianggap cukup untu
 
 
 
+Zero Sum Game:
+
+Ketika ada yang untung, ada juga yang rugi. Saat ada yang harus menjual dengan harga yang tidak dikehendaki. 
+
+
+
