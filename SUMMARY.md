@@ -30,6 +30,7 @@
 * [Ubuntu For Dummies](resources/ubuntu-for-dummies/README.md)
   * [Issue using Ubuntu](resources/ubuntu-for-dummies/issue-using-ubuntu.md)
 * [Docker](resources/docker.md)
+* [Useful Website](resources/useful-website.md)
 
 ## Learning Path and Growth Plan <a id="learning-path"></a>
 
