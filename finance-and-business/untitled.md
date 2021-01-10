@@ -48,3 +48,7 @@ Ketika ada yang untung, ada juga yang rugi. Saat ada yang harus menjual dengan h
 
 
 
+Investor: Orang yang opportunis, mencari momentum untuk masuk. Peluang ada di properti, Belanja Modal pemerintah. Masih ada ruang di early stage company, dimana ruangnya masih luas untuk tumbuh.  
+
+
+
