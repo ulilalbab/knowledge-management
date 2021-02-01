@@ -37,6 +37,7 @@
 * [DevOps](learning-path/devops/README.md)
   * [Google Cloud Path](learning-path/devops/google-cloud-path.md)
   * [Python](learning-path/devops/python.md)
+  * [Introduction to Azure fundamentals](learning-path/devops/introduction-to-azure-fundamentals.md)
 * [Software Engineer](learning-path/software-engineer/README.md)
   * [Repo](learning-path/software-engineer/repo.md)
 * [Did and To Do](learning-path/did-and-to-do.md)
