@@ -82,3 +82,7 @@
 
 * [Masalah UMKM](rintisan-tumbuh/masalah-umkm.md)
 
+## Event
+
+* [The future is now](event/the-future-is-now.md)
+
