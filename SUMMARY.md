@@ -10,6 +10,7 @@
 * [The Intelligent Investor](books-to-read/the-intelligent-investor.md)
 * [The 7 Habits of Highly Effective People](books-to-read/the-7-habits-of-highly-effective-people.md)
 * [Computational Thinking](books-to-read/computational-thinking.md)
+* [Who The Hell Are You?](books-to-read/who-the-hell-are-you.md)
 
 ## Journal
 
