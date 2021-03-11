@@ -33,3 +33,19 @@ Use .toml file under folder that was created by CF
 
 
 
+
+
+Issue: 
+
+Restricted Policy:
+
+{% embed url="https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about\_execution\_policies?view=powershell-7.1" %}
+
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser 
+
+
+
+Run Using Admin RIght
+
+
+
