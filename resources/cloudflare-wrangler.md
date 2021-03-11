@@ -1,5 +1,12 @@
 # Cloudflare Wrangler
 
+Prerequisites
+
+1. Node JS and NPM
+2. Visual Studio Code
+
+
+
 Source: 
 
 {% embed url="https://developers.cloudflare.com/workers/starters" %}
