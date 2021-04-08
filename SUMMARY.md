@@ -54,6 +54,7 @@
 * [Law of Attraction](note/law-of-attraction.md)
 * [Hidup Yang Bermanfaat](note/hidup-yang-bermanfaat.md)
 * [Ide Tulisan](note/ide-tulisan.md)
+* [Pandora Rasa](note/pandora-rasa.md)
 
 ## Improvement and Productivity
 
