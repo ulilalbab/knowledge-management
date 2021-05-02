@@ -47,6 +47,7 @@
 
 * [Menjadi Master](note/menjadi-master.md)
 * [Menguji Konsistensi](note/menguji-konsistensi.md)
+* [Rise Above The Crowd](note/rise-above-the-crowd.md)
 * [Tua dan Muda](note/tua-dan-muda.md)
 * [Rehat Sejenak](note/rehat-sejenak.md)
 * [Batas Kepuasan](note/batas-kepuasan.md)
