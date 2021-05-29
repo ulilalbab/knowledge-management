@@ -11,6 +11,8 @@
 * [The 7 Habits of Highly Effective People](books-to-read/the-7-habits-of-highly-effective-people.md)
 * [Computational Thinking](books-to-read/computational-thinking.md)
 * [Who The Hell Are You?](books-to-read/who-the-hell-are-you.md)
+* [Rich Dad Poor Dad](books-to-read/rich-dad-poor-dad.md)
+* [Getting Things Done](books-to-read/getting-things-done.md)
 
 ## Journal
 
