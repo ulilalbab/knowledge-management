@@ -34,6 +34,7 @@
   * [Issue using Ubuntu](resources/ubuntu-for-dummies/issue-using-ubuntu.md)
 * [Docker](resources/docker.md)
 * [Useful Website](resources/useful-website.md)
+* [Server Management](resources/server-management.md)
 
 ## Learning Path and Growth Plan <a id="learning-path"></a>
 
