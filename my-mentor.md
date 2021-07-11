@@ -16,3 +16,7 @@ People who teach me about wisdom
 2. Ahmad Bahauddin Nursalim \(Gus Baha\)
 3. Fahruddin Faiz
 
+People who fight for inequality:
+
+1. Eko Prasetyo
+
