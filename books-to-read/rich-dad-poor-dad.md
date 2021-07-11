@@ -1,6 +1,6 @@
 # Rich Dad Poor Dad
 
-In Progress
+Done
 
 Bagaimana mendefinisikan ulang menganai aset dan liabilitas. 
 
