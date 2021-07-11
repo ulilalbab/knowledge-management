@@ -6,6 +6,8 @@ Cloud Storage: [https://e.pcloud.com/\#page=register&invite=FhoZPYV6Hk](https://
 
 [https://partner.pcloud.com/r/48681](https://partner.pcloud.com/r/48681) 
 
+DigitalOcean: [https://m.do.co/c/db919e4bf9de](https://m.do.co/c/db919e4bf9de) 
+
 
 
 
