@@ -2,7 +2,11 @@
 
 Domain and hosting : [https://my.idcloudhost.com/aff.php?aff=5464](https://my.idcloudhost.com/aff.php?aff=5464) 
 
-Cloud Storage: 
+Cloud Storage: [https://e.pcloud.com/\#page=register&invite=FhoZPYV6Hk](https://e.pcloud.com/#page=register&invite=FhoZPYV6Hk) 
+
+[https://partner.pcloud.com/r/48681](https://partner.pcloud.com/r/48681) 
+
+
 
 
 
