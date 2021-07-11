@@ -93,3 +93,7 @@
 
 * [The future is now](event/the-future-is-now.md)
 
+## Affiliate
+
+* [Tools to make us more productive](affiliate/tools-to-make-us-more-productive.md)
+
